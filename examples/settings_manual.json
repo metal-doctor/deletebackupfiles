@@ -1,0 +1,18 @@
+{
+    "БезУдаленияРезервныхКопий": true,
+	"fullbackups":
+    {
+        "fullbackups.Каталог": "d:\\full",
+        "fullbackups.МаскаФайлов": "full_*",
+        "fullbackups.МинимальноеКоличествоРезервныхКопий": 4,
+        "fullbackups.ПериодХраненияРезервныхКопий": 31
+    },
+    "diffbackups":
+    {
+        "diffbackups.Каталог": "d:\\diff",
+        "diffbackups.МаскаФайлов": "diff_*",
+        "diffbackups.МинимальноеКоличествоРезервныхКопий": 14,
+        "diffbackups.ПериодХраненияРезервныхКопий": 14
+    } 
+
+}
